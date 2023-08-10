@@ -1,6 +1,7 @@
 ### Всем Привет! 👋
 
-Меня зовут Цоктоева Галина и я web разработчик. Я родом из Забайкальского края и на данный момент живу и работаю в Москве.
+Меня зовут Цоктоева Галина и я web разработчик. 
+Я родом из Забайкальского края и на данный момент живу и работаю в Москве.
 
           
 ## 🔧 Technologies & Tools
@@ -10,9 +11,10 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 
-![Leetcode](https://leetcard.jacoblin.cool/leetcode?site=GalinaTsok)
+## 🔧 Leetcode
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=GalinaTsok&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-### ⚙️ GitHub статистика:
+## ⚙️ GitHub статистика:
 
 <table>
   <tr>
