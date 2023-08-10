@@ -2,8 +2,6 @@
 
 Меня зовут Цоктоева Галина и я web разработчик. Я родом из Забайкальского края и на данный момент живу и работаю в Москве.
 
-
-🔧 Technologies & Tools
           
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
