@@ -10,6 +10,8 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+
 ### ⚙️ GitHub статистика:
 
 <table>
