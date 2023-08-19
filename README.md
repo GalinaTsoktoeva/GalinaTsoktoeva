@@ -1,7 +1,10 @@
-### Всем Привет! 👋
+###Hello there! 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+I'm Tsoktoeva Galina, a passionate software engineer with a  foundation in web development and a keen interest in problem-solving.
 
-Меня зовут Цоктоева Галина и я web разработчик. 
-Я родом из Забайкальского края и на данный момент живу и работаю в Москве.
+I value clean code, maintainable solutions, and continuous learning. 
 
           
 ## 🔧 Technologies & Tools
