@@ -1,6 +1,6 @@
 ### Hello there! 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdyY2FxeXl0bWs5Zjl1cHR5Mmxxa2VzcTE1aWtpejc1aWg0dWZqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="100"/>
 </div>
 I'm Tsoktoeva Galina, a passionate software engineer with a  foundation in web development and a keen interest in problem-solving.
 
