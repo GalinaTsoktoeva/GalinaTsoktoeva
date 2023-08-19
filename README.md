@@ -3,8 +3,6 @@
 </div>
 
 ### Hello there! 👋
-About me: 
-
 - :telescope:I'm Tsoktoeva Galina, a passionate software engineer with a  foundation in web development and a keen interest in problem-solving.
 - :zap: I value clean code, maintainable solutions, and continuous learning.
 
