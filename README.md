@@ -27,7 +27,7 @@
   <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
 </p>
 
-## 🔧 Leetcode
+## 🚀 Leetcode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=GalinaTsok&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ## ⚙️ GitHub статистика:
