@@ -1,11 +1,14 @@
-### Hello there! 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdyY2FxeXl0bWs5Zjl1cHR5Mmxxa2VzcTE1aWtpejc1aWg0dWZqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdyY2FxeXl0bWs5Zjl1cHR5Mmxxa2VzcTE1aWtpejc1aWg0dWZqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
 </div>
-I'm Tsoktoeva Galina, a passionate software engineer with a  foundation in web development and a keen interest in problem-solving.
 
-I value clean code, maintainable solutions, and continuous learning. 
+### Hello there! 👋
+About me: 
 
+- :telescope:I'm Tsoktoeva Galina, a passionate software engineer with a  foundation in web development and a keen interest in problem-solving.
+- :zap: I value clean code, maintainable solutions, and continuous learning.
+If you have any questions, collaborations, or interesting projects, please don't hesitate to reach out. Let's connect and create something amazing together!
+- :mailbox: How to reach me: <a href="https://t.me/ga1tsok" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" alt="lackroy" height="40" width="40" /></a>
           
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
