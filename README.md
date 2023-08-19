@@ -7,7 +7,8 @@ About me:
 
 - :telescope:I'm Tsoktoeva Galina, a passionate software engineer with a  foundation in web development and a keen interest in problem-solving.
 - :zap: I value clean code, maintainable solutions, and continuous learning.
-If you have any questions, collaborations, or interesting projects, please don't hesitate to reach out. Let's connect and create something amazing together!
+
+- :seedling: If you have any questions, collaborations, or interesting projects, please don't hesitate to reach out. Let's connect and create something amazing together!
 - :mailbox: How to reach me: <a href="https://t.me/ga1tsok" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" alt="lackroy" height="40" width="40" /></a>
           
 ## 🔧 Technologies & Tools
